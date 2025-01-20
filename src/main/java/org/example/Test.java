@@ -5,4 +5,5 @@ public class Test {
     String test = "str111";
 
     String kim = "112222";
+    String kim1 = "112222";
 }
