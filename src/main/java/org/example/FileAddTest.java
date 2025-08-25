@@ -4,5 +4,7 @@ public class FileAddTest {
     //안녕하세요
     int asd = 1;
     int test = 0;
+
+    String var = "dev 브랜치!! ";
 }
 
