@@ -6,5 +6,6 @@ public class FileAddTest {
     int test = 0;
 
     String var = "dev 브랜치!! ";
+    String var1 = "new 브랜치!! ";
 }
 
