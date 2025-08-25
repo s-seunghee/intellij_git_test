@@ -7,4 +7,8 @@ public class TestFile {
 
 
     String test3 = "master";
+
+    String brench3 = "brnch3";
+    String brench4 = "brnch4";
+    String brench6 = "brnch6";
 }
